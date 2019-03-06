@@ -1,0 +1,2 @@
+# zqqo-script
+ZqqO Script
